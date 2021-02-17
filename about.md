@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+我是文雅, 他是徐威, 我们已经在一起半年有余啦 
+### 关于我
+平平无奇的学术小垃圾, 立志制造更多学术垃圾, 加油!
+### 关于他
+默默无名网瘾少年, 立志成为一名职业游戏主播, 为他加油!
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### 了解更多
+那就敬请关注啦 
