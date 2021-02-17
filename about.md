@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 我是文雅, 他是徐威, 我们已经在一起半年有余啦 
+<img src="https://wenyasun.github.io/xs_blog.github.io/images/we_kiss.jpeg">
+
+<video width="320" height="240" controls>
+  <source src="https://wenyasun.github.io/xs_blog.github.io/images/hiking.mp4" type="video/mp4">
+</video>
 ### 关于我
 平平无奇的学术小垃圾, 立志制造更多学术垃圾, 加油!
 ### 关于他
