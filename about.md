@@ -16,4 +16,4 @@ permalink: /about/
   <source src="https://wenyasun.github.io/xs_blog.github.io/images/hiking.mp4" type="video/mp4">
 </video>
 #### 无聊自拍
-<img src = "https://wenyasun.github.io/xs_blog.github.io/images/we_home.png">
+<img src = "https://wenyasun.github.io/xs_blog.github.io/images/we_home.jpeg">
