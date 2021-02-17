@@ -8,10 +8,11 @@ permalink: /about/
 <img src="https://wenyasun.github.io/xs_blog.github.io/images/we_kiss.jpeg">
 
 ### 想做的事
-平平无奇的学术小垃圾, 立志制造更多学术垃圾, 加油!
-默默无名网瘾少年, 立志成为一名职业游戏主播, 为他加油!
-### Activities
-#### Hiking
+- 我: 平平无奇的学术小垃圾, 立志制造更多学术垃圾, 加油!
+- 他: 默默无名网瘾少年, 立志成为一名职业游戏主播, 为他加油!
+
+### 娱乐消遣
+#### 爬山锻炼
 <video controls>
   <source src="https://wenyasun.github.io/xs_blog.github.io/images/hiking.mp4" type="video/mp4">
 </video>
