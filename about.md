@@ -7,7 +7,7 @@ permalink: /about/
 
 <img src="https://wenyasun.github.io/xs_blog.github.io/images/we_kiss.jpeg">
 
-<video max-width=100% height=auto controls>
+<video max-width=80% height=auto controls>
   <source src="https://wenyasun.github.io/xs_blog.github.io/images/hiking.mp4" type="video/mp4">
 </video>
 ### 关于我
