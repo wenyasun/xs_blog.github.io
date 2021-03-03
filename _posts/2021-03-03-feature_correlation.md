@@ -7,7 +7,10 @@ title: 如何计算feature间correlation
  - dataframe.corr() 
  - 此方法默认计算变量间的person correlation
 ## numeric feature & categorical feature more than 2
- - 可使用scipy.stats.f_oneway方法, the higher the score, the closer the correlation
+ - 可使用scipy.stats.f_oneway方法, the higher the score, the closer the correlation(The one-way ANOVA tests the null hypothesis that two or more groups have the same population mean. The test is applied to samples from two or more groups, possibly with differing sizes.
+ - [p-value]https://stackoverflow.com/questions/9537392/git-fetch-remote-branch
+
+)
   '''
   num1=np.random.normal(loc=90,scale=5,size=100)
 df1=pd.DataFrame(num1,columns=['Salary'])
@@ -31,4 +34,3 @@ F, p = stats.f_oneway(df[df.Type=='EmpType1'].Salary,
 
 print(F)
   '''
-  
